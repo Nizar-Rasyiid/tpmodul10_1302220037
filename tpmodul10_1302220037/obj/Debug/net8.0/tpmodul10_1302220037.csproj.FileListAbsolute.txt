@@ -30,3 +30,7 @@ D:\KPL C#\tpmodul10_1302220037\tpmodul10_1302220037\obj\Debug\net8.0\refint\tpmo
 D:\KPL C#\tpmodul10_1302220037\tpmodul10_1302220037\obj\Debug\net8.0\tpmodul10_1302220037.pdb
 D:\KPL C#\tpmodul10_1302220037\tpmodul10_1302220037\obj\Debug\net8.0\tpmodul10_1302220037.genruntimeconfig.cache
 D:\KPL C#\tpmodul10_1302220037\tpmodul10_1302220037\obj\Debug\net8.0\ref\tpmodul10_1302220037.dll
+D:\KPL C#\tpmodul10_1302220037\tpmodul10_1302220037\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\KPL C#\tpmodul10_1302220037\tpmodul10_1302220037\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KPL C#\tpmodul10_1302220037\tpmodul10_1302220037\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\KPL C#\tpmodul10_1302220037\tpmodul10_1302220037\obj\Debug\net8.0\tpmodul10_1302220037.sourcelink.json
