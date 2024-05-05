@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\KPL C#\\tpmodul10_1302220037\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67A52ED0-96D6-4F60-A779-1E2200063935}|tpmodul10_1302220037\\tpmodul10_1302220037.csproj|d:\\kpl c#\\tpmodul10_1302220037\\tpmodul10_1302220037\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A52ED0-96D6-4F60-A779-1E2200063935}|tpmodul10_1302220037\\tpmodul10_1302220037.csproj|solutionrelative:tpmodul10_1302220037\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8A14B9E-E238-452F-AA56-7924A2268752}|Main\\Main.csproj|d:\\kpl c#\\tpmodul10_1302220037\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A14B9E-E238-452F-AA56-7924A2268752}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A52ED0-96D6-4F60-A779-1E2200063935}|tpmodul10_1302220037\\tpmodul10_1302220037.csproj|d:\\kpl c#\\tpmodul10_1302220037\\tpmodul10_1302220037\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A52ED0-96D6-4F60-A779-1E2200063935}|tpmodul10_1302220037\\tpmodul10_1302220037.csproj|solutionrelative:tpmodul10_1302220037\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{459D895A-53FE-4686-83D0-7A795CCD501F}|AljabarLibraries\\AljabarLibraries.csproj|d:\\kpl c#\\tpmodul10_1302220037\\aljabarlibraries\\aljabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459D895A-53FE-4686-83D0-7A795CCD501F}|AljabarLibraries\\AljabarLibraries.csproj|solutionrelative:aljabarlibraries\\aljabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A52ED0-96D6-4F60-A779-1E2200063935}|tpmodul10_1302220037\\tpmodul10_1302220037.csproj|d:\\kpl c#\\tpmodul10_1302220037\\tpmodul10_1302220037\\mahasiswadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A52ED0-96D6-4F60-A779-1E2200063935}|tpmodul10_1302220037\\tpmodul10_1302220037.csproj|solutionrelative:tpmodul10_1302220037\\mahasiswadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A52ED0-96D6-4F60-A779-1E2200063935}|tpmodul10_1302220037\\tpmodul10_1302220037.csproj|d:\\kpl c#\\tpmodul10_1302220037\\tpmodul10_1302220037\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A52ED0-96D6-4F60-A779-1E2200063935}|tpmodul10_1302220037\\tpmodul10_1302220037.csproj|solutionrelative:tpmodul10_1302220037\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8A14B9E-E238-452F-AA56-7924A2268752}|Main\\Main.csproj|d:\\kpl c#\\tpmodul10_1302220037\\main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8A14B9E-E238-452F-AA56-7924A2268752}|Main\\Main.csproj|solutionrelative:main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\KPL C#\\tpmodul10_1302220037\\tpmodul10_1302220037\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "tpmodul10_1302220037\\WeatherForecast.cs",
-              "ToolTip": "D:\\KPL C#\\tpmodul10_1302220037\\tpmodul10_1302220037\\WeatherForecast.cs",
-              "RelativeToolTip": "tpmodul10_1302220037\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T20:05:31.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MahasiswaDb.cs",
-              "DocumentMoniker": "D:\\KPL C#\\tpmodul10_1302220037\\tpmodul10_1302220037\\MahasiswaDb.cs",
-              "RelativeDocumentMoniker": "tpmodul10_1302220037\\MahasiswaDb.cs",
-              "ToolTip": "D:\\KPL C#\\tpmodul10_1302220037\\tpmodul10_1302220037\\MahasiswaDb.cs",
-              "RelativeToolTip": "tpmodul10_1302220037\\MahasiswaDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T18:58:33.545Z",
+              "Title": "Main",
+              "DocumentMoniker": "D:\\KPL C#\\tpmodul10_1302220037\\Main\\Main.csproj",
+              "RelativeDocumentMoniker": "Main\\Main.csproj",
+              "ToolTip": "D:\\KPL C#\\tpmodul10_1302220037\\Main\\Main.csproj",
+              "RelativeToolTip": "Main\\Main.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T18:47:51.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Mahasiswa.cs",
-              "DocumentMoniker": "D:\\KPL C#\\tpmodul10_1302220037\\tpmodul10_1302220037\\Mahasiswa.cs",
-              "RelativeDocumentMoniker": "tpmodul10_1302220037\\Mahasiswa.cs",
-              "ToolTip": "D:\\KPL C#\\tpmodul10_1302220037\\tpmodul10_1302220037\\Mahasiswa.cs",
-              "RelativeToolTip": "tpmodul10_1302220037\\Mahasiswa.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL C#\\tpmodul10_1302220037\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "Main\\Program.cs",
+              "ToolTip": "D:\\KPL C#\\tpmodul10_1302220037\\Main\\Program.cs",
+              "RelativeToolTip": "Main\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T18:54:57.878Z",
+              "WhenOpened": "2024-05-05T18:43:21.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\KPL C#\\tpmodul10_1302220037\\tpmodul10_1302220037\\Program.cs",
-              "RelativeDocumentMoniker": "tpmodul10_1302220037\\Program.cs",
-              "ToolTip": "D:\\KPL C#\\tpmodul10_1302220037\\tpmodul10_1302220037\\Program.cs",
-              "RelativeToolTip": "tpmodul10_1302220037\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAACAAAAAyAAAA",
+              "Title": "Aljabar.cs",
+              "DocumentMoniker": "D:\\KPL C#\\tpmodul10_1302220037\\AljabarLibraries\\Aljabar.cs",
+              "RelativeDocumentMoniker": "AljabarLibraries\\Aljabar.cs",
+              "ToolTip": "D:\\KPL C#\\tpmodul10_1302220037\\AljabarLibraries\\Aljabar.cs",
+              "RelativeToolTip": "AljabarLibraries\\Aljabar.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T18:41:01.393Z",
+              "WhenOpened": "2024-05-05T18:32:12.494Z",
               "EditorCaption": ""
             }
           ]
